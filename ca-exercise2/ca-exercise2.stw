@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=ca-exercise2.stp
+Dependencies=
+[Options]
+ActiveProject=ca-exercise2
+ActiveConfig=Debug
+AddSortedElements=1
