@@ -26,6 +26,6 @@ This repository demonstrates bare-metal assembly programming for STM8S microcont
   **. . . . . .**
 
 ## Hardware
-![Hardware](hardware.png)
+![Hardware](./hardware.png)
 
 ---
